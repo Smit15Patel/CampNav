@@ -1,0 +1,189 @@
+@media (min-width:0px) and (max-width:500px){
+  body{
+    background-color: black;
+  }
+  #salutation{
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+  }
+  #login{
+    font-size: large;
+    height: auto;
+    width: auto;
+    text-shadow: 5cm;
+    align-content: center;
+    color: lightblue;
+    background: none;
+    backface-visibility: hidden;
+    background-color: none;
+  }
+  #services{
+    font-size: large;
+    color: rgb(149, 195, 236);
+  }
+  #para{
+    text-align: center;
+    color: rgb(199, 216, 232);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #paragrapgh{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #joke{
+    text-align: center;
+    font-size: medium;
+    color: antiquewhite;
+  }
+  #title_of_joke{
+    text-align: center;
+    color: azure;
+  }
+  #see{
+    text-align: center;
+    color: aliceblue;
+  }
+  #dis{
+    text-align: center;
+    font-size: x-large;
+    color: red;
+  }
+  #esy{
+    font-size: large;
+    color: antiquewhite;
+  }
+  #login{
+    font-size: 20px;
+    text-align: center;
+    color: antiquewhite;
+  }
+  #signup{
+    font-size: 20px;
+    text-align: center;
+    color: antiquewhite;
+  }
+  #color{
+    color: aliceblue;
+  }
+  #phon, #nam, #mal{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+  }
+  #name, #phone, #mail{
+    color: aliceblue;
+    background-color: transparent;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+  }
+  #reg_id, #pass{
+    color: aliceblue;
+    background-color: transparent;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+  }
+  #re_id,#passwor{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+  }
+  #kjnaed{
+    color: #3f3232;
+    font-size: 20px;
+}
+  #kjhefu{
+    padding-top: 10px;
+  }
+  #btnn{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    height: 50px;
+    width: auto;
+    padding-top: px;
+    font-size: 17px;
+  }
+  #btnnn{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgba(132, 180, 239, 0.705);
+    color: rgb(0, 0, 0);
+    height: auto;
+    width: auto;
+    padding-top: px;
+    font-size: 17px;
+  }
+  #lbl1{
+    background-color: none;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    height: auto;
+    width: 300px;
+  }
+  table, th, td{
+    border: 1px solid lightsalmon;
+  }
+  #rightNow{
+    text-align: justify;
+  }
+  #href{
+    text-decoration: solid;
+    font-size: 23px;
+    color: wheat;
+    font-style: unset;
+  }
+  #review{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    height: auto;
+    width: auto;
+  }
+  #mai{
+    width: auto;
+    height: auto;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #xyz{
+    height: auto;
+    width: auto;
+    color: bisque;
+    background-color: transparent;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  .review textarea{
+    resize: none;
+    height: 59px;
+    width: auto;
+    color: bisque;
+    background-color: transparent;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 15px;
+    outline: none;
+  }
+  textarea:is(:focus, :valid){
+    border-width: 2px;
+    border-color: #3f3232;
+    border-color: burlywood;
+  }
+  textarea::-webkit-scrollbar{
+    width: 0px;
+  }
+  .post{
+    color: black;
+    border-radius: 7px;
+    padding: 13px;
+    background-color: rgb(245, 236, 225);
+    width: 8cm;
+    height: 12cm;
+  }
+}
